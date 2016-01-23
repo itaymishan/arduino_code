@@ -1,7 +1,5 @@
 /**
  * Wiring visual sensor test
- * by Jaime Patarroyo
- *
  * Simple sensor reading visualization for data interpretation and
  * calibration, shows the last 600 values and prints on serial port
  * current value, minimum value and maximum value. Minimum
