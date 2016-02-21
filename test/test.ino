@@ -3,7 +3,7 @@ int ledPin10 = 10;
 
 void setup()
 {
-  // init pins as outputs
+  // init pin as outputs
   pinMode(ledPin12,OUTPUT);
   pinMode(ledPin10,OUTPUT);
   
