@@ -1,4 +1,5 @@
- 
+/* Itay Mishan */
+
 const uint8_t input_pin = 2;
 const uint8_t output_pin = 19;
 const uint8_t analog_pin = output_pin - 14; // analog 5
