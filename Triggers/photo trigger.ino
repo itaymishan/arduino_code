@@ -4,6 +4,8 @@ const uint8_t input_pin = 2;
 const uint8_t output_pin = 19;
 const uint8_t analog_pin = output_pin - 14; // analog 5
 const uint8_t monitor_pin = 13;
+
+// data
  
 // larger values == more sensitive
 // maximum is 1023 == always triggered
