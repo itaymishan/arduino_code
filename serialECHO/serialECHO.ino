@@ -1,4 +1,4 @@
-/* Simple Serial ECHO script : Written by ScottC 03/07/2012 */
+/* Simple Serial ECHO script : Written by Itay Mishan */
 
 /* Use a variable called byteRead to temporarily store
    the data coming from the computer */
