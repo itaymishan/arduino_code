@@ -7,7 +7,7 @@ const uint8_t monitor_pin = 13;
 
 // data
  
-// larger values == more sensitive
+// larger values == more  sensitive
 // maximum is 1023 == always triggered
 // minimum is 0    == never triggered
 const int16_t threshhold = 1000;
