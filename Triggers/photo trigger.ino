@@ -50,7 +50,7 @@ void loop() {
     digitalWrite(monitor_pin, HIGH);
  
     delayMicroseconds(trigger_time_us);
-    // open output 
+    // open  output 
     pinMode(output_pin, INPUT);
  
     delay(dead_time_ms);
