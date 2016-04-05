@@ -15,7 +15,7 @@
  // Read the value from the sensor
     sensorVal = analogRead(A0);
  
- // Send the value to the Serial Monitor
+ //Send the value to the Serial Monitor
     Serial.print("Sensor Value=");
     Serial.println(sensorVal);
     if(sensorVal < 50 )
