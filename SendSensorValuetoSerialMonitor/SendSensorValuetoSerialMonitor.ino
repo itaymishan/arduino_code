@@ -12,7 +12,7 @@
   }
 
   void loop() {
- // Read the value from the sensor:
+ // Read the value from the sensor
     sensorVal = analogRead(A0);
  
  // Send the value to the Serial Monitor
