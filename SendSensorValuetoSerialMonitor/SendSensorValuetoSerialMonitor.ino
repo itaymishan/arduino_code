@@ -27,6 +27,6 @@
         digitalWrite(ledPin13,LOW);
     }
 
- // Interval between readings = 1 second
+ // Interval between readings = 1 sec
     delay(1000);                
   }
