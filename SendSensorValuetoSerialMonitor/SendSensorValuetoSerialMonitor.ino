@@ -3,7 +3,7 @@
   int sensorVal = 0;  
 
   void setup() {
- // Setup Serial communication with computer
+ // Setup Serial communication
     Serial.begin(9600);
     
   // init pins as outputs
